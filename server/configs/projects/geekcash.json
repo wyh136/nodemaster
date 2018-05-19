@@ -1,0 +1,10 @@
+{
+    "name":"GeekCash",
+    "collateral":10000,
+    "rpcport":6889,
+    "rpcuser":"wyh136",
+    "rpcpassword":"yourpassword",
+    "mainwallet":"xxxxxxxxxxxxxxxxxxxxxxx",
+    "daemonURL":"https://download.tar.gz",
+    "configpath":"~/.geekcash/geekcash.conf"
+}
